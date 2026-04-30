@@ -1,0 +1,77 @@
+name: Data Quality Standards Vocabulary
+description: >-
+  Vocabulary of data quality dimensions, measurements, and program
+  concepts drawn from ISO/IEC 25012, ISO 8000, DAMA-DMBOK, and modern
+  data observability practice.
+terms:
+  - term: Accuracy
+    definition: >-
+      The degree to which data correctly represents the real-world
+      object or event it describes.
+  - term: Completeness
+    definition: >-
+      The degree to which all required data is present, with no missing
+      values where they are expected.
+  - term: Consistency
+    definition: >-
+      The degree to which data values agree across systems, copies,
+      and over time.
+  - term: Timeliness
+    definition: >-
+      The degree to which data is up to date and available within the
+      window required by its consumers.
+  - term: Validity
+    definition: >-
+      The degree to which data conforms to the syntax and constraints
+      defined by its schema and business rules.
+  - term: Uniqueness
+    definition: >-
+      The degree to which records are not duplicated within a dataset.
+  - term: Integrity
+    definition: >-
+      The degree to which referential and structural relationships in
+      data are preserved.
+  - term: Conformance
+    definition: >-
+      The degree to which data adheres to defined formats, codes, or
+      reference values.
+  - term: Data Quality Rule
+    definition: >-
+      A declarative check expressing an expectation about a column,
+      table, or relationship.
+  - term: Data Quality Dimension
+    definition: >-
+      A category along which data quality is measured, such as accuracy
+      or completeness.
+  - term: Data Quality Score
+    definition: >-
+      A composite metric summarizing the health of a dataset across
+      dimensions.
+  - term: Data Profiling
+    definition: >-
+      Statistical analysis of a dataset to discover its structure,
+      distributions, and anomalies.
+  - term: Data Observability
+    definition: >-
+      Continuous monitoring of pipelines and datasets to detect
+      freshness, volume, schema, and distribution issues.
+  - term: Data Contract
+    definition: >-
+      A formal agreement between data producers and consumers that
+      specifies schema, semantics, SLAs, and quality expectations.
+  - term: Service Level Indicator
+    definition: >-
+      A measurable signal such as freshness or row count used to
+      track data quality SLAs.
+  - term: Service Level Objective
+    definition: >-
+      A target value or range for a data quality SLI that defines
+      acceptable performance.
+  - term: Reference Data
+    definition: >-
+      Curated lookup values such as country codes that act as the
+      source of truth for conformance checks.
+  - term: Master Data
+    definition: >-
+      Authoritative business data such as customer or product records
+      whose quality affects every downstream system.
