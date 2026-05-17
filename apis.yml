@@ -7,8 +7,7 @@ description: >-
   ISO 8000, the DAMA-DMBOK data quality dimensions, EDM Council DCAM, and
   open source and commercial tooling like Great Expectations, Soda, dbt
   tests, Monte Carlo, and Anomalo.
-type: Topic
-xType: topic
+kind: topic
 position: Consumer
 access: 3rd-Party
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
