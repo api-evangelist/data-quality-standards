@@ -27,11 +27,11 @@ apis: []
 common:
   - url: https://www.iso.org/standard/35736.html
     name: ISO/IEC 25012
-    type: Standard
+    type: Standards
     description: ISO standard defining a data quality model with 15 characteristics.
   - url: https://www.iso.org/standard/50798.html
     name: ISO 8000
-    type: Standard
+    type: Standards
     description: ISO 8000 family for data quality, master data, and data quality management.
   - url: https://www.dama.org/cpages/body-of-knowledge
     name: DAMA-DMBOK
@@ -43,35 +43,35 @@ common:
     description: Data Management Capability Assessment Model.
   - url: https://www.iso.org/standard/82911.html
     name: ISO/IEC 25024
-    type: Standard
+    type: Standards
     description: Measurement of data quality.
   - url: https://greatexpectations.io/
     name: Great Expectations
-    type: Tool
+    type: Tools
     description: Open source data quality validation framework.
   - url: https://www.soda.io/
     name: Soda
-    type: Tool
+    type: Tools
     description: Data quality and observability platform with SodaCL.
   - url: https://docs.getdbt.com/docs/build/data-tests
     name: dbt Tests
-    type: Tool
+    type: Tools
     description: dbt's built-in data tests for transformations.
   - url: https://www.montecarlodata.com/
     name: Monte Carlo
-    type: Tool
+    type: Tools
     description: Data observability platform for detecting data quality incidents.
   - url: https://www.anomalo.com/
     name: Anomalo
-    type: Tool
+    type: Tools
     description: Data quality monitoring with automated anomaly detection.
   - url: https://elementary-data.com/
     name: Elementary
-    type: Tool
+    type: Tools
     description: Open source data observability built on dbt.
   - url: https://github.com/awslabs/deequ
     name: Deequ
-    type: Tool
+    type: Tools
     description: AWS Labs library for testing data quality on Spark.
   - url: vocabulary/data-quality-standards-vocabulary.yml
     name: Vocabulary
