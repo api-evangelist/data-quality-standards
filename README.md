@@ -1,4 +1,4 @@
-# Data Quality Standards (data-quality-standards)
+# data-quality-standards
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,56 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Data Quality Standards is the landscape of frameworks, standards, and tools used to define and measure the accuracy, completeness, consistency, validity, uniqueness, and timeliness of data. It spans ISO/IEC 25012 and ISO 8000, the DAMA-DMBOK data quality dimensions, EDM Council DCAM, and open source and commercial tooling like Great Expectations, Soda, dbt tests, Monte Carlo, and Anomalo.
+## data-quality-standards on APIs.io
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/data-quality-standards/refs/heads/main/apis.yml)
+Everything profiled for data-quality-standards is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/data-quality-standards/](https://apis.io/providers/data-quality-standards/)** — or go straight to one of the APIs or properties below.
 
-## Scope
+## API Evangelist rating
 
-- **Type:** Topic
-- **Position:** Consumer
-- **Access:** 3rd-Party
+Not yet rated. See [apis.io/providers/data-quality-standards/](https://apis.io/providers/data-quality-standards/).
 
-## Tags
+## How this profile is made
 
-- Data Governance
-- Data Management
-- Data Quality
-- Data Quality Standards
-- Observability
-- Standards
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-## Timestamps
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for data-quality-standards: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-- **Created:** 2025-01-01
-- **Modified:** 2026-04-30
+## Open an issue
 
-## Common Resources
-
-### Standards & Frameworks
-
-- [ISO/IEC 25012](https://www.iso.org/standard/35736.html)
-- [ISO/IEC 25024](https://www.iso.org/standard/82911.html)
-- [ISO 8000](https://www.iso.org/standard/50798.html)
-- [DAMA-DMBOK](https://www.dama.org/cpages/body-of-knowledge)
-- [EDM Council DCAM](https://edmcouncil.org/page/aboutdcamreview)
-
-### Tools
-
-- [Great Expectations](https://greatexpectations.io/)
-- [Soda](https://www.soda.io/)
-- [dbt Tests](https://docs.getdbt.com/docs/build/data-tests)
-- [Monte Carlo](https://www.montecarlodata.com/)
-- [Anomalo](https://www.anomalo.com/)
-- [Elementary](https://elementary-data.com/)
-- [Deequ](https://github.com/awslabs/deequ)
-
-### Reference
-
-- [Vocabulary](vocabulary/data-quality-standards-vocabulary.yml)
-
-## Maintainers
-
-**FN:** Kin Lane
-
-**Email:** kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/data-quality-standards/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
